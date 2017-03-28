@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+
+a{
+    color: white;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+li{
+    background-color: black;
+}
+li:hover{
+    background-color: green;
+}

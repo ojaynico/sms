@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    height: 5px;
+    background-color: #009933;
+}
+
+section{
+    width: 100%;
+    background-color: white;
+    height: 100%;
+}
+
+.the_form{
+    float: left;
+    width: 300px;
+    padding-left: 10px;
+    background-image: url("../images/backform.png");
+    color: white;
+    border-radius: 5%;
+    font-weight: bold;
+}
+
+.the_books{
+    float: left;
+    padding-left: 5px;
+    height: 100%;
+    width: 70%;
+    color: #5c5c5c;
+}
+
+.input{
+    width: 100%;
+    border-color: green;
+    border-style: solid;
+    height: 4%;
+    border-width: thin;
+}
+
+.submit{
+    background-color: green;
+    color: white;
+    font-size: 16pt;
+    border-style: solid;
+    border-radius: 15%;
+}

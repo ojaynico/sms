@@ -1,0 +1,122 @@
+section{
+    padding-left: 9%;
+    background-color: white;
+}
+
+body{
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.swe{
+    float: left;
+    width: 30%;
+    height: 120px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+    
+}
+.ims{
+    float: left;
+    width: 30%;
+    height: 120px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.vfx{
+    float: left;
+    width: 30%;
+    height: 120px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.swec{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.imsc{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.vfxc{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.webc{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.offc{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}
+.printc{
+    float: left;
+    width: 30%;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    border-style: solid;
+    border-width: 1pt;
+    border-color: white;
+}

@@ -1,0 +1,29 @@
+section{
+color: green;
+width: 65%;
+font-weight: bold;
+height: 100%;
+background-color: white;
+padding-left: 35%;
+margin: 0px;
+}
+
+.input{
+    width: 50%;
+    border-color: green;
+    border-style: solid;
+    height: 5%;
+    border-width: thin;
+}
+
+.submit{
+    background-color: green;
+    color: white;
+    font-size: 16pt;
+    border-style: solid;
+    border-radius: 15%;
+}
+
+a{
+    text-decoration: none;
+}

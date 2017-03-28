@@ -1,0 +1,112 @@
+section{
+    padding-left: 10%;
+    background-color: white;
+    height: 65%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.semcont{
+    float: left;
+    padding-top: 5%;
+}
+.sem1{
+    color: white;
+    background-color: #43A047;
+    font-size: 25pt;
+}
+.sem1:hover{
+    color: white;
+    background-color: #757575;
+    font-size: 25pt;
+}
+
+.sem2{
+    color: white;
+    background-color: #388E3C;
+    font-size: 25pt;
+}
+.sem2:hover{
+    color: white;
+    background-color: #616161;
+    font-size: 25pt;
+}
+
+.sem3{
+    color: white;
+    background-color: #2E7D32;
+    font-size: 25pt;
+}
+.sem3:hover{
+    color: white;
+    background-color: #424242;
+    font-size: 25pt;
+}
+
+.sem4{
+    color: white;
+    background-color: #1B5E20;
+    font-size: 25pt;
+}
+.sem4:hover{
+    color: white;
+    background-color: #212121;
+    font-size: 25pt;
+}
+
+.subj1{
+    float: left;
+    padding-top: 2%;
+    width: 35%;
+}
+
+.book1{
+    float: left;
+    padding-top: 2%;
+    width: 35%;
+}
+#myFrame1{
+    width: 100%;
+    height: 80%;
+    border-style: none;
+}
+
+#myFrame2{
+    width: 100%;
+    height: 80%;
+    border-style: none;
+}
+
+h3{
+    color: white;
+}
+
+.subj2{
+    float: left;
+    padding-top: 2%;
+    width: 35%;
+}
+
+#myFrame3{
+    width: 100%;
+    height: 80%;
+    border-style: none;
+}
+.book2{
+    float: left;
+    padding-top: 2%;
+    width: 35%;
+}
+.cert{
+    font-size: 15pt;
+    color: white;
+}
+li{
+    text-align: left;
+    background-color: black;
+}
+li:hover{
+    background-color: green;
+}
